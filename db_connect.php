@@ -2,11 +2,11 @@
 // db_connect.php
 
 // Database configuration for Supabase (PostgreSQL)
-$host = "aws-1-ap-south-1.pooler.supabase.com";
-$port = "6543";
+$host = "db.yyeploxrzxwhhsnffexp.supabase.co";
+$port = "5432";
 $dbname = "postgres";
-$user = "postgres.yyeploxrzxwhhsnffexp";
-$password = "jen#159300#";
+$user = "postgres";
+$password = "jen#1212#code";
 
 // Supabase Storage Configuration
 // REPLACE 'images' WITH YOUR ACTUAL BUCKET NAME IF DIFFERENT
