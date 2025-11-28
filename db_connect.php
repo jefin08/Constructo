@@ -2,10 +2,10 @@
 // db_connect.php
 
 // Database configuration for Supabase (PostgreSQL)
-$host = "db.yyeploxrzxwhhsnffexp.supabase.co";
+$host = "aws-1-ap-south-1.pooler.supabase.com";
 $port = "5432";
 $dbname = "postgres";
-$user = "postgres";
+$user = "postgres.yyeploxrzxwhhsnffexp";
 $password = "jen#1212#code";
 
 // Supabase Storage Configuration
