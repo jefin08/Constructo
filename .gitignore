@@ -1,0 +1,11 @@
+# Local PHP
+/php/
+
+# Database
+database.sqlite
+
+# System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
