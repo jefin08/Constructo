@@ -70,4 +70,4 @@ This project provides a robust solution for construction material vendors and cu
 - `db_connect.php`: Database connection handler.
 
 ---
-*Built with ❤️ for the Construction Industry.*
+*Built By Jefin Jobi .*
